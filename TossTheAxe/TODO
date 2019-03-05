@@ -1,0 +1,11 @@
+
+Instructions:
+  ☐ Requires Todo+
+  ☐ CTRL+ENTER to make new todo @created(18-08-13 09:37)
+  ✔ ALT+D @created(18-08-13 09:37) @done(18-08-13 09:37)
+  ✘ ALT+C @created(18-08-13 09:37) @cancelled(18-08-13 09:37)
+  ☐ ALT+S @started(18-08-13 09:37)
+  ✔ ALT+S then ALT+D @started(18-08-13 09:38) @done(18-08-13 09:38) @lasted(40s)
+
+Todo: 
+  ☐ @created(18-08-13 09:38)
